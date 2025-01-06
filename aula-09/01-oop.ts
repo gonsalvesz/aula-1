@@ -1,5 +1,5 @@
 
-type Produto = {
+export type Produto = {
     nome: string
     valor: number
 }

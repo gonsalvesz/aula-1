@@ -1,1 +1,1 @@
-console.log(new Date().toLocaleString('en-US'))
+http://localhost:3000
