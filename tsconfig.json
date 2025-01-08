@@ -6,8 +6,7 @@
         "jsx": "react",
         "strictNullChecks": true,
         "strictFunctionTypes": true,
-        "sourceMap": true,
-        "resolveJsonModule": true
+        "sourceMap": true
     },
     "exclude": [
         "node_modules",
